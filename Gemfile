@@ -22,6 +22,11 @@ group :development, :test do
   gem 'binding_of_caller'
   gem 'better_errors'
 
+  gem 'capybara'
+  gem 'poltergeist'
+  gem 'launchy'
+  gem 'minitest-reporters'
+
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'spring'
